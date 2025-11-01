@@ -13,6 +13,7 @@ Here are some Gaussian Prime Spiral plots:
 
 ## ```dirichlet_char.py```
 generates Dirichlet character plots by computing character values mod q and plotting their finite Fourier interpolation.
+This script was heavily inspired by [this article](https://visual.davidlowryduda.com/2020/dirichlet-characters.html).
 
 Here is the Dirichlet character plot for q=22, and n=5.
 ![](screenshots/q22n5.png)
