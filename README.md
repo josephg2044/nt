@@ -15,4 +15,4 @@ Here are some Gaussian Prime Spiral plots:
 generates Dirichlet character plots by computing character values mod q and plotting their finite Fourier interpolation.
 
 Here is the Dirichlet character plot for q=22, and n=5.
-![](screenshots/q22n5)
+![](screenshots/q22n5.png)
