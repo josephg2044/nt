@@ -83,5 +83,5 @@ def plot_character(q, index, samples=120_000, cycles=1.0, linewidth=0.6):
 
 
 if __name__ == "__main__":
-    plot_character(q=22, index=5, samples=120_000, cycles=1.0, linewidth=0.5)
+    plot_character(q=5, index=4, samples=120_000, cycles=1.0, linewidth=0.5)
     plt.show()

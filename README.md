@@ -17,3 +17,4 @@ This script was heavily inspired by [this article](https://visual.davidlowryduda
 
 Here is the Dirichlet character plot for q=22, and n=5.
 ![](screenshots/q22n5.png)
+![](screenshots/q5n4.png)
